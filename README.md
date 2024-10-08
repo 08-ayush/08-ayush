@@ -10,12 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=08-ayush" alt="08-ayush" /></a> </p>
 <br>
 
-- 🌱 **I’m currently learning React framework and Blockchain Development**
-- 👨‍💻 **All of my projects are available at [https://github.com/jkvishu?tab=repositories](https://github.com/jkvishu?tab=repositories)**
-- 👀 **Do you need any tech Guidance** 
-- 🤝 **Helping hand for your open source project**
+- 🌱 **I’m currently learning React framework and Typescript**
+- 👨‍💻 **All of my projects are available at [https://github.com/08-ayush)**
+- 👀 **Do you need any tech Guidance**
 - 👨‍💻 **Ask me about Web Development**
-- ⚡ **Best Quote : "Everyone in this World should learn how to program because it teaches you how to think"**
+- ⚡ **Best Quote : "Time is a created thing. To say 'I don’t have time' is like saying, 'I don’t want to."**
 <br>
 
 
