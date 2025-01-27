@@ -20,7 +20,7 @@
 
 - 🌱 **I’m currently learning React framework and Typescript**
 - 👨‍💻 **All of my projects are available at (https://github.com/08-ayush)**
-- 👀 **Do you need any tech guidance? Visit my website (https://codewithaayushcom.netlify.app/) **
+- 👀 **Do you need any tech guidance? Visit my website (https://aayushchauhan.tech) **
 - 👨‍💻 **Ask me about Web Development**
 - ⚡ **Best Quote : "Time is a created thing. To say 'I don’t have time' is like saying, 'I don’t want to."**
 <br>
