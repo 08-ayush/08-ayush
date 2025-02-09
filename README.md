@@ -18,7 +18,7 @@
 <!--- trophy (start) -->
 <br>
 
-- 🌱 **I’m currently learning React framework and Typescript**
+- 🌱 **I’m currently learning nest.js framework and microservices**
 - 👨‍💻 **All of my projects are available at (https://github.com/08-ayush)**
 - 👀 **Do you need any tech guidance? Visit my website (https://aayushchauhan.tech) **
 - 👨‍💻 **Ask me about Web Development**
