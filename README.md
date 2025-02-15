@@ -66,9 +66,6 @@
 <!-- Stats Heading -->
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<!-- Contribution Graph Heading -->
-<h2 align="center">📊 Aayush Chauhan Contribution Graph 📊</h2>
-
 <!-- Contribution Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
   <picture>
