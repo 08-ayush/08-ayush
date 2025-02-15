@@ -1,7 +1,7 @@
  ![logo](https://github.com/08-ayush/08-ayush/blob/main/Banner.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+S!;&center=true&font=Righteous&size=35">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Aayush+Chauhan!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
