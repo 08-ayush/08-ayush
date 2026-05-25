@@ -1,68 +1,128 @@
- ![logo](https://github.com/08-ayush/08-ayush/blob/main/Banner.png)
+<img src="https://github.com/08-ayush/08-ayush/blob/main/Banner.png" width="100%" />
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!+👋;+I'm+Aayush+Chauhan!;&center=true&font=Righteous&size=35">
-  </a>
-
+  Hi 👋, I'm Aayush Chauhan
 </h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">
+ Full Stack Developer • Backend Engineer • AI Enthusiast
+</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=08-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="08-ayush" /> </p>
-
-
-<!--- trophy (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=08-ayush&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&cache=none" alt="TROPHY" />
-
- </a>
-</div>
-<!--- trophy (end) -->
-
-<br>
-
-- 🌱 **I’m currently learning nest.js framework and microservices**
-- 👨‍💻 **All of my projects are available at (https://github.com/08-ayush)**
-- 👀 **Do you need any tech guidance? Visit my website (https://aayushchauhan.tech) **
-- 👨‍💻 **Ask me about Web Development**
-- ⚡ **Best Quote : "Time is a created thing. To say 'I don’t have time' is like saying, 'I don’t want to."**
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,bootstrap,c,dotnet,nest,docker,redis,css,discord,typescript,express,github,html,js,linux,angular,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,figma&perline=14" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=FastAPI+Developer;React+%2F+Next.js+Developer;AI+%2F+LLM+Engineer;Microservices+Architect;Scaling+Systems+to+Millions;LangChain+%7C+LangGraph+%7C+Vector+DBs" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=08-ayush&show_icons=true&locale=en&layout=compact" alt="08-ayush" /></p>
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/08-ayush/08-ayush/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/08-ayush/08-ayush/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/08-ayush/08-ayush/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212750337-7bcf4b6b-7d89-4882-8d7a-50d5f77d6f4.gif">
 
-<!-- Stats Heading -->
-<h2 align="center">⚡ Stats ⚡</h2>
+## 🚀 About Me
 
-<!-- Contribution Graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=08-ayush&theme=react-dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=08-ayush&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=08-ayush&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Aayush Chauhan's Contribution Graph" />
-  </picture>
+- 🔥 Passionate Full Stack Developer from India
+- ⚡ Building scalable backend systems & modern web apps
+- 🧠 Exploring AI Agents, LLMs & RAG Architectures
+- 🌱 Currently learning:
+  - LangChain
+  - LangGraph
+  - NLP
+  - Vector Databases
+  - RAG Pipelines
+  - AI Agents
+  - Microservices Architecture
+  - Distributed Systems
+  - System Design
+  - Scaling Architecture to Millions
+
+- 💬 Ask me about:
+  - FastAPI
+  - React
+  - PostgreSQL
+  - Node.js
+  - Backend Architecture
+  - API Design
+  - AI Integrations
+
+- 🌐 Portfolio: [aayushchauhan.tech](https://aayushchauhan.tech)
+- 👨‍💻 GitHub: [github.com/08-ayush](https://github.com/08-ayush)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aayush-chauhan-9b3b76207" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
+
+<a href="https://github.com/08-ayush" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="https://aayushchauhan.tech" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="50" />
+</a>
+</p>
+
+---
+
+# ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,nestjs,react,nextjs,typescript,javascript,redux,tailwind,html,css,mongodb,postgresql,mysql,redis,docker,kubernetes,aws,linux,git,github,vscode,postman,figma&perline=9" />
+
+</p>
+
+---
+
+# 🤖 AI / LLM Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker,redis,postgresql" />
+
+</p>
+
+<p align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/VectorDB-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-success?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple?style=for-the-badge)
+
+</p>
+
+---
+
+# 🏗️ Architecture & Engineering
+
+```yaml
+Backend:
+  - FastAPI
+  - Node.js
+  - Microservices
+  - REST APIs
+  - Authentication
+  - Scalable Architectures
+
+Databases:
+  - PostgreSQL
+  - MongoDB
+  - Redis
+  - Vector Databases
+
+DevOps:
+  - Docker
+  - CI/CD
+  - Render
+  - Vercel
+  - GitHub Actions
+
+Learning:
+  - Kubernetes
+  - Distributed Systems
+  - Event Driven Architecture
+  - System Design
+  - High Scale Backend Systems
