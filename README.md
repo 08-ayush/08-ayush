@@ -14,13 +14,31 @@
 
 
 <!--- trophy (start) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
   <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=08-ayush&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&cache=none" alt="TROPHY" />
 
  </a>
-</div>
+</div> -->
 <!--- trophy (end) -->
+<!-- GitHub Stats & Streak -->
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=08-ayush&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=08-ayush&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08-ayush&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
 
 <br>
 
