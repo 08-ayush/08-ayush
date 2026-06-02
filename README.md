@@ -41,15 +41,20 @@
   - System Design
   - Scaling Architecture to Millions
 
-- 💬 Ask me about:
-  - FastAPI
-  - React
-  - PostgreSQL
-  - Node.js
-  - Backend Architecture
-  - API Design
-  - AI Integrations
-<br>
+💬 Ask me about:
+
+* 🚀 Backend: FastAPI, Node.js, Express.js, Spring Boot
+* 🌐 APIs & Communication: REST APIs, GraphQL, gRPC
+* ⚛️ Frontend: React.js
+* 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Firebase, Redis
+* 🔧 ORMs & Data Access: Prisma, Hibernate
+* 📨 Messaging & Queues: RabbitMQ, Apache Kafka, BullMQ
+* 🏗️ Architecture: Microservices Architecture, Event-Driven Systems
+* ☁️ Cloud & DevOps: AWS, Microsoft Azure
+* 📐 System Design: Low-Level Design (LLD), High-Level Design (HLD)
+* 🤖 AI Integrations: OpenAI, AI-powered Applications
+* 💻 Languages: Java, Python, TypeScript, JavaScript, C#
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
