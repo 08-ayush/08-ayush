@@ -23,23 +23,6 @@
 <!--- trophy (end) -->
 <!-- GitHub Stats & Streak -->
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=08-ayush&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=08-ayush&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08-ayush&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-
 <br>
 
 ## 🚀 About Me
